@@ -11,7 +11,7 @@ public class lesson_6 {
         noutbooks nout_4 = new noutbooks("Asser", "transformer", "tft", "none", "grey", 6, 128, 13, 40000);
         noutbooks nout_5 = new noutbooks("Asus", "eeе15", "let", "win10", "white", 8, 512, 15, 70000);
 
-        HashSet<noutbooks> nouts = new HashSet<>(); // Создаем Set из ноутбуков
+        HashSet<noutbooks> nouts = new HashSet<>(); //Создаем Set из ноутбуков
         nouts.add(nout_1);
         nouts.add(nout_2);
         nouts.add(nout_3);
